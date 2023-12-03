@@ -1,15 +1,15 @@
 ---
 layout: home
-title: AC215, CSCIE-115
+title: AI-5
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: AC215, CSCIE-115
+  name: AI-5
 ---
 
 
-# **Productionizing AI (MLOps)**: AC215, CSCIE-115.
+# **Productionizing AI (MLOps)**: AI-5.
 {:.no_toc}
 
 ## Table of contents
