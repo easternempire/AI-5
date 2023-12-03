@@ -1,13 +1,12 @@
 ---
-title: Week 7 - ML Workflow Management  
+title: Week 7 & 8 - Data and Models
 ---
 
-Oct 17
-: Cloud functions, Cloud Run, Vertex AI Pipelines
-  : [Lecture 11](../assets/lectures/lecture11/07_ml_workflow_management.pdf)
+Jan 20
+: TF Data and TF Records
+  : [Lecture 7](../assets/lectures/lecture7/04_data3_tf_data_tf_records.pdf)
+: [**M 2 due**](https://harvard-iacs.github.io/2023-AC215/milestone2/){: .label .label-red }
 
-Oct 19 
-: Hands on Mushroom App Pipelines
-  : [Lecture 12](../assets/lectures/lecture12/07_ml_workflow_management.pdf)
-
-  
+Jan 27
+: Advanced training workflows: experiment tracking (W&B), multi GPU, serverless training (Vertex AI), kubeflow
+  : [Lecture 8](../assets/lectures/lecture8/04_model1_advanced_training.pdf)

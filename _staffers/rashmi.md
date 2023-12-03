@@ -1,7 +1,7 @@
 ---
-name: Rashmi Banthia
-role: Head TF
+name: Ignacio Becker
+role: Instructor
 # email:  rjain29 AT gmail
 # website: https://rashmibanthia.github.io/
-photo:  rashmi.jpg
+photo:  IgnacioBecker.png
 ---

@@ -1,8 +1,12 @@
 ---
-title: Week 5 - Project Week
+title: Week 5 & 6 - Data
 ---
-Oct 3
-: No class (Project Week)
 
-Oct 5
-: No class (Project Week) [**M 3 due**](https://harvard-iacs.github.io/2023-AC215/milestone3/){: .label .label-red }
+Jan 6
+: Data Pipelines: Extract, Transform, Labeling, Versioning
+  : [Lecture 5](../assets/lectures/lecture5/03_data1_pipelines_versioning_cloud_storage.pdf)
+
+
+Jan 13
+: Dask	
+  : [Lecture 6](../assets/lectures/lecture6/03_data2_dask.pdf)

@@ -1,14 +1,11 @@
 ---
-title: Week 9 - App Development 
+title: Week 9 & 10 - Models   
 ---
 
-Oct 31
-: App design, setup and code organization
-  : [Lecture 13](../assets/lectures/lecture13/09_app_development_design_setup.pdf)
+Feb 3
+: Distillation/Quantization/Compression, TF lite
+  : [Lecture 9](../assets/lectures/lecture9/05_model2_compression_techniques.pdf)
 
-Nov 2 
-: APIs & Frontend
-  : [Lecture 14](../assets/lectures/lecture14/09_app_development_implement.pdf)
-
-  
-  
+Feb 10
+: Model performance monitoring, data drift, or other post release items to be aware of
+  : [Lecture 10](../assets/lectures/lecture10/05_model3_performance_monitoring.pdf)

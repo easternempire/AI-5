@@ -252,145 +252,103 @@
     "relUrl": "/schedule/"
   },"36": {
     "doc": "Schedule and Calendar",
-    "title": "Week 1 - Introduction, Virtual Environments and Virtual Machines",
-    "content": "Sep 05 Introduction Lecture 1 ,   Setup &amp; Installation Sep 07 Virtual Environments and Virtual Machines Lecture 2 ",
-    "url": "/schedule/#week-1-introduction-virtual-environments-and-virtual-machines",
+    "title": "Week 1 &amp; 2 - Introduction, Virtual Environments and Virtual Machines",
+    "content": "Dec 12 Introduction Lecture 1 ,   Setup &amp; Installation Dec 16 Virtual Environments and Virtual Machines Lecture 2 ",
+    "url": "/schedule/#week-1-2-introduction-virtual-environments-and-virtual-machines",
     
-    "relUrl": "/schedule/#week-1-introduction-virtual-environments-and-virtual-machines"
+    "relUrl": "/schedule/#week-1-2-introduction-virtual-environments-and-virtual-machines"
   },"37": {
     "doc": "Schedule and Calendar",
-    "title": "Week 2 - Containers",
-    "content": "Sep 12 Containers I Lecture 3 Sep 14 Containers II Lecture 4 M 1 due ",
-    "url": "/schedule/#week-2-containers",
+    "title": "Week 3 &amp; 4 - Containers",
+    "content": "Dec 23 Containers I Lecture 3 Dec 30 Containers II Lecture 4 M 1 due ",
+    "url": "/schedule/#week-3-4-containers",
     
-    "relUrl": "/schedule/#week-2-containers"
+    "relUrl": "/schedule/#week-3-4-containers"
   },"38": {
     "doc": "Schedule and Calendar",
-    "title": "Week 3 - Data",
-    "content": "Sep 19 Data Pipelines: Extract, Transform, Labeling, Versioning Lecture 5 Sep 21 Dask Lecture 6 ",
-    "url": "/schedule/#week-3-data",
+    "title": "Week 5 &amp; 6 - Data",
+    "content": "Jan 6 Data Pipelines: Extract, Transform, Labeling, Versioning Lecture 5 Jan 13 Dask Lecture 6 ",
+    "url": "/schedule/#week-5-6-data",
     
-    "relUrl": "/schedule/#week-3-data"
+    "relUrl": "/schedule/#week-5-6-data"
   },"39": {
     "doc": "Schedule and Calendar",
-    "title": "Week 4 - Data and Models",
-    "content": "Sep 26 TF Data and TF Records Lecture 7 M 2 due Sep 28 Advanced training workflows: experiment tracking (W&amp;B), multi GPU, serverless training (Vertex AI), kubeflow Lecture 8 ",
-    "url": "/schedule/#week-4-data-and-models",
+    "title": "Week 7 &amp; 8 - Data and Models",
+    "content": "Jan 20 TF Data and TF Records Lecture 7 M 2 due Jan 27 Advanced training workflows: experiment tracking (W&amp;B), multi GPU, serverless training (Vertex AI), kubeflow Lecture 8 ",
+    "url": "/schedule/#week-7-8-data-and-models",
     
-    "relUrl": "/schedule/#week-4-data-and-models"
+    "relUrl": "/schedule/#week-7-8-data-and-models"
   },"40": {
     "doc": "Schedule and Calendar",
-    "title": "Week 5 - Project Week",
-    "content": "Oct 3 No class (Project Week) Oct 5 No class (Project Week) M 3 due ",
-    "url": "/schedule/#week-5-project-week",
+    "title": "Week 9 &amp; 10 - Models",
+    "content": "Feb 3 Distillation/Quantization/Compression, TF lite Lecture 9 Feb 10 Model performance monitoring, data drift, or other post release items to be aware of Lecture 10 ",
+    "url": "/schedule/#week-9-10-models",
     
-    "relUrl": "/schedule/#week-5-project-week"
+    "relUrl": "/schedule/#week-9-10-models"
   },"41": {
     "doc": "Schedule and Calendar",
-    "title": "Week 6 - Model",
-    "content": "Oct 10 Distillation/Quantization/Compression, TF lite Lecture 9 Oct 12 Model performance monitoring, data drift, or other post release items to be aware of Lecture 10 ",
-    "url": "/schedule/#week-6-model",
+    "title": "Week 11 &amp; 12 - ML Workflow Management",
+    "content": "Feb 17 Cloud functions, Cloud Run, Vertex AI Pipelines Lecture 11 Feb 24 Hands on Mushroom App Pipelines Lecture 12 ",
+    "url": "/schedule/#week-11-12-ml-workflow-management",
     
-    "relUrl": "/schedule/#week-6-model"
+    "relUrl": "/schedule/#week-11-12-ml-workflow-management"
   },"42": {
     "doc": "Schedule and Calendar",
-    "title": "Week 7 - ML Workflow Management",
-    "content": "Oct 17 Cloud functions, Cloud Run, Vertex AI Pipelines Lecture 11 Oct 19 Hands on Mushroom App Pipelines Lecture 12 ",
-    "url": "/schedule/#week-7-ml-workflow-management",
+    "title": "Week 13 &amp; 14 - App Development",
+    "content": "Mar 2 App design, setup and code organization Lecture 13 Mar 9 APIs &amp; Frontend Lecture 14 ",
+    "url": "/schedule/#week-13-14-app-development",
     
-    "relUrl": "/schedule/#week-7-ml-workflow-management"
+    "relUrl": "/schedule/#week-13-14-app-development"
   },"43": {
     "doc": "Schedule and Calendar",
-    "title": "Week 8 - Midterm presentations",
-    "content": "Oct 24 Midterm presentations (See Ed) M 4 due Oct 26 Midterm presentations (See Ed) M 4 due ",
-    "url": "/schedule/#week-8-midterm-presentations",
+    "title": "Week 15 &amp; 16 - Deployment &amp; Scaling",
+    "content": "Mar 16 Deployment Lecture 15 Mar 23 Scaling: Kubernetes Lecture 16 ",
+    "url": "/schedule/#week-15-16-deployment-scaling",
     
-    "relUrl": "/schedule/#week-8-midterm-presentations"
+    "relUrl": "/schedule/#week-15-16-deployment-scaling"
   },"44": {
     "doc": "Schedule and Calendar",
-    "title": "Week 9 - App Development",
-    "content": "Oct 31 App design, setup and code organization Lecture 13 Nov 2 APIs &amp; Frontend Lecture 14 ",
-    "url": "/schedule/#week-9-app-development",
+    "title": "Week 17 &amp; 18 - Frontend and Automation",
+    "content": "Mar 30 React Session (Online) Lecture 17 Apr 6 Automation: GitHub Actions Lecture 18 Setup &amp; Installation . Refer to the setup and installation document for a full list of softwares and tools we will be using in this class . Policy on Usage of Publicly Available Class Material . | Permitted Use: Class Material is made available primarily for the educational benefit of enrolled students and may be used by others for personal educational purposes only. | Prohibited Use: . | Selling or commercializing any part of the Class Material. | Sharing, distributing, or publishing any part of the Class Material in any form or through any medium without explicit permission from the instructor. | Modifying or altering the Class Material to create derivative works. | . | Attribution: Any permitted use of the Class Material must carry appropriate acknowledgment of the source (e.g., the instructor’s name, course title, and institution). | Enforcement: Failure to comply with this policy may result in legal action and/or disciplinary measures as applicable. | . Consent: . By accessing and using the Class Material, you indicate your acknowledgment and acceptance of this policy. ",
+    "url": "/schedule/#week-17-18-frontend-and-automation",
     
-    "relUrl": "/schedule/#week-9-app-development"
+    "relUrl": "/schedule/#week-17-18-frontend-and-automation"
   },"45": {
-    "doc": "Schedule and Calendar",
-    "title": "Week 10 - Deployment &amp; Scaling",
-    "content": "Nov 7 Deployment Lecture 15 Nov 9 Scaling: Kubernetes Lecture 16 ",
-    "url": "/schedule/#week-10-deployment-scaling",
-    
-    "relUrl": "/schedule/#week-10-deployment-scaling"
-  },"46": {
-    "doc": "Schedule and Calendar",
-    "title": "Week 11 - Frontend",
-    "content": "Nov 14 React Session (Online) Lecture 17 Nov 16 Projects ",
-    "url": "/schedule/#week-11-frontend",
-    
-    "relUrl": "/schedule/#week-11-frontend"
-  },"47": {
-    "doc": "Schedule and Calendar",
-    "title": "Week 12 - Thanks giving",
-    "content": "Nov 20 M 5 due . ",
-    "url": "/schedule/#week-12-thanks-giving",
-    
-    "relUrl": "/schedule/#week-12-thanks-giving"
-  },"48": {
-    "doc": "Schedule and Calendar",
-    "title": "Week 13 - Automation",
-    "content": "Nov 28 Automation: GitHub Actions Lecture 18 Nov 30 Projects ",
-    "url": "/schedule/#week-13-automation",
-    
-    "relUrl": "/schedule/#week-13-automation"
-  },"49": {
-    "doc": "Schedule and Calendar",
-    "title": "Week 14 -  Projects",
-    "content": " ",
-    "url": "/schedule/#week-14-projects",
-    
-    "relUrl": "/schedule/#week-14-projects"
-  },"50": {
-    "doc": "Schedule and Calendar",
-    "title": "Week 15 - Presentations",
-    "content": "Dec 12 Final Project Submission M 6 due Setup &amp; Installation . Refer to the setup and installtion document for a full list of softwares and tools we will be using in this class . Policy on Usage of Publicly Available Class Material . | Permitted Use: Class Material is made available primarily for the educational benefit of enrolled students and may be used by others for personal educational purposes only. | Prohibited Use: . | Selling or commercializing any part of the Class Material. | Sharing, distributing, or publishing any part of the Class Material in any form or through any medium without explicit permission from the instructor. | Modifying or altering the Class Material to create derivative works. | . | Attribution: Any permitted use of the Class Material must carry appropriate acknowledgment of the source (e.g., the instructor’s name, course title, and institution). | Enforcement: Failure to comply with this policy may result in legal action and/or disciplinary measures as applicable. | . Consent: . By accessing and using the Class Material, you indicate your acknowledgment and acceptance of this policy. ",
-    "url": "/schedule/#week-15-presentations",
-    
-    "relUrl": "/schedule/#week-15-presentations"
-  },"51": {
     "doc": "Staff / Contact",
     "title": "Staff",
     "content": " ",
     "url": "/staff/#staff",
     
     "relUrl": "/staff/#staff"
-  },"52": {
+  },"46": {
     "doc": "Staff / Contact",
     "title": "Instructors",
-    "content": "Pavlos Protopapas . Shivas Jayaram . ",
+    "content": "Pavlos Protopapas . Rahul Dave . Ignacio Becker . Shivas Jayaram . ",
     "url": "/staff/#instructors",
     
     "relUrl": "/staff/#instructors"
-  },"53": {
+  },"47": {
     "doc": "Staff / Contact",
     "title": "Contact",
     "content": "For administrative or logistical questions, please e-mail class Helpline at ac215.2023@gmail.com . ",
     "url": "/staff/#contact",
     
     "relUrl": "/staff/#contact"
-  },"54": {
+  },"48": {
     "doc": "Staff / Contact",
     "title": "Office Hours",
     "content": "(See Ed) . ",
     "url": "/staff/#office-hours",
     
     "relUrl": "/staff/#office-hours"
-  },"55": {
+  },"49": {
     "doc": "Staff / Contact",
     "title": "Course Staff",
-    "content": "Rashmi Banthia . Andrew Smith . Connor Capitolo . Matthew Nazari . Tale Lokvenec . ",
+    "content": "Anshika Gupta . Aamir Ahmad Ansari . Shibani Budharaja . Vishnu M . ",
     "url": "/staff/#course-staff",
     
     "relUrl": "/staff/#course-staff"
-  },"56": {
+  },"50": {
     "doc": "Staff / Contact",
     "title": "Staff / Contact",
     "content": " ",

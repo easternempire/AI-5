@@ -1,12 +1,12 @@
 ---
-title: Week 3 - Data
+title: Week 3 & 4 - Containers
 ---
 
-Sep 19
-: Data Pipelines: Extract, Transform, Labeling, Versioning
-  : [Lecture 5](../assets/lectures/lecture5/03_data1_pipelines_versioning_cloud_storage.pdf)
+Dec 23
+: Containers I
+  : [Lecture 3](../assets/lectures/lecture3/02_containers_part1.pdf)
 
-
-Sep 21
-: Dask	
-  : [Lecture 6](../assets/lectures/lecture6/03_data2_dask.pdf)
+Dec 30
+: Containers II
+  : [Lecture 4](../assets/lectures/lecture4/02_containers_part2.pdf)
+: [**M 1 due**](https://harvard-iacs.github.io/2023-AC215/milestone1/){: .label .label-red }

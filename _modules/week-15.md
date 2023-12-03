@@ -1,11 +1,10 @@
 ---
-title: Week 15 - Presentations
+title: Week 15 & 16 - Deployment & Scaling
 ---
+Mar 16
+: Deployment	
+  : [Lecture 15](../assets/lectures/lecture15/10_operations_deployment.pdf)
 
-Dec 12
-: Final Project Submission 
-[**M 6 due**](https://harvard-iacs.github.io/2023-AC215/milestone6/){: .label .label-red }
-
-  
-
-  
+Mar 23
+: Scaling: Kubernetes	
+  : [Lecture 16](../assets/lectures/lecture16/10_operations_scaling.pdf)
