@@ -190,7 +190,7 @@
   },"27": {
     "doc": "Projects",
     "title": "Milestones",
-    "content": "Project Milestones - Overview . | Milestones | Brief Description | Due Date | Grade % | . | MS1 | Project Proposals, Team formation - Students submit project proposals and form teams. Staff reviews proposals and return feedback and project approvals by 09/19. | 09/14 | 5 | . | MS2 | MLOps Infrastructure &amp; Advanced Training Workflows - Building atomic containers, versioned data pipelines, and scalable computing solutions. | 09/26 | 10 | . | MS3 | Scalable and Moduler Computing Infrastructure - Extending advanced training workflows with Tensorflow, experiment tracking, multi-GPU training and serverless training. | 10/05 | 15 | . | MS4 | Midterm Presentation - Presenting a fully functional CLI-based mega pipeline application with model optimization, performance monitoring, and severless inference. | 10/24 | 25 | . | MS5 | Full-Stack Development - Design a user-friendly frontend developed around working API calls and design documents. | 11/20 | 10 | . | MS6 | Final Presentation and Deliverables - Students will finish by working through deployment and scaling, documenting the project through a published Medium post, a 6-minute video presentation, and a well-organized GitHub repository. | 12/12 | 35 | . Guidelines, submission instruction for milestones (and medium page) for future project events will be posted as they approach. ",
+    "content": "Project Milestones - Overview . | Milestones | Brief Description | Due Date | Grade % | . | MS1 | Project Proposals, Team formation - Students submit project proposals and form teams. Staff reviews proposals and return feedback and project approvals by 09/19. | 12/30 | 5 | . | MS2 | MLOps Infrastructure &amp; Advanced Training Workflows - Building atomic containers, versioned data pipelines, and scalable computing solutions. | 01/20 | 10 | . | MS3 | Scalable and Moduler Computing Infrastructure - Extending advanced training workflows with Tensorflow, experiment tracking, multi-GPU training and serverless training. | 02/03 | 15 | . | MS4 | Midterm Presentation - Presenting a fully functional CLI-based mega pipeline application with model optimization, performance monitoring, and severless inference. | 03/02 | 25 | . | MS5 | Full-Stack Development - Design a user-friendly frontend developed around working API calls and design documents. | 04/06 | 10 | . | MS6 | Final Presentation and Deliverables - Students will finish by working through deployment and scaling, documenting the project through a published Medium post, a 6-minute video presentation, and a well-organized GitHub repository. | TBD | 35 | . Guidelines, submission instruction for milestones (and medium page) for future project events will be posted as they approach. ",
     "url": "/projects/#milestones",
     
     "relUrl": "/projects/#milestones"
@@ -253,7 +253,7 @@
   },"36": {
     "doc": "Schedule and Calendar",
     "title": "Week 1 &amp; 2 - Introduction, Virtual Environments and Virtual Machines",
-    "content": "Dec 12 Introduction Lecture 1 ,   Setup &amp; Installation Dec 16 Virtual Environments and Virtual Machines Lecture 2 ",
+    "content": "Dec 9 Introduction Lecture 1 ,   Setup &amp; Installation Dec 16 Virtual Environments and Virtual Machines Lecture 2 ",
     "url": "/schedule/#week-1-2-introduction-virtual-environments-and-virtual-machines",
     
     "relUrl": "/schedule/#week-1-2-introduction-virtual-environments-and-virtual-machines"
@@ -281,7 +281,7 @@
   },"40": {
     "doc": "Schedule and Calendar",
     "title": "Week 9 &amp; 10 - Models",
-    "content": "Feb 3 Distillation/Quantization/Compression, TF lite Lecture 9 Feb 10 Model performance monitoring, data drift, or other post release items to be aware of Lecture 10 ",
+    "content": "Feb 3 Distillation/Quantization/Compression, TF lite Lecture 9 M 3 due Feb 10 Model performance monitoring, data drift, or other post release items to be aware of Lecture 10 ",
     "url": "/schedule/#week-9-10-models",
     
     "relUrl": "/schedule/#week-9-10-models"
@@ -295,7 +295,7 @@
   },"42": {
     "doc": "Schedule and Calendar",
     "title": "Week 13 &amp; 14 - App Development",
-    "content": "Mar 2 App design, setup and code organization Lecture 13 Mar 9 APIs &amp; Frontend Lecture 14 ",
+    "content": "Mar 2 App design, setup and code organization Lecture 13 M 4 due Mar 9 APIs &amp; Frontend Lecture 14 ",
     "url": "/schedule/#week-13-14-app-development",
     
     "relUrl": "/schedule/#week-13-14-app-development"
@@ -309,7 +309,7 @@
   },"44": {
     "doc": "Schedule and Calendar",
     "title": "Week 17 &amp; 18 - Frontend and Automation",
-    "content": "Mar 30 React Session (Online) Lecture 17 Apr 6 Automation: GitHub Actions Lecture 18 Setup &amp; Installation . Refer to the setup and installation document for a full list of softwares and tools we will be using in this class . Policy on Usage of Publicly Available Class Material . | Permitted Use: Class Material is made available primarily for the educational benefit of enrolled students and may be used by others for personal educational purposes only. | Prohibited Use: . | Selling or commercializing any part of the Class Material. | Sharing, distributing, or publishing any part of the Class Material in any form or through any medium without explicit permission from the instructor. | Modifying or altering the Class Material to create derivative works. | . | Attribution: Any permitted use of the Class Material must carry appropriate acknowledgment of the source (e.g., the instructor’s name, course title, and institution). | Enforcement: Failure to comply with this policy may result in legal action and/or disciplinary measures as applicable. | . Consent: . By accessing and using the Class Material, you indicate your acknowledgment and acceptance of this policy. ",
+    "content": "Mar 30 React Session (Online) Lecture 17 Apr 6 Automation: GitHub Actions Lecture 18 M 5 due Setup &amp; Installation . Refer to the setup and installation document for a full list of softwares and tools we will be using in this class . Policy on Usage of Publicly Available Class Material . | Permitted Use: Class Material is made available primarily for the educational benefit of enrolled students and may be used by others for personal educational purposes only. | Prohibited Use: . | Selling or commercializing any part of the Class Material. | Sharing, distributing, or publishing any part of the Class Material in any form or through any medium without explicit permission from the instructor. | Modifying or altering the Class Material to create derivative works. | . | Attribution: Any permitted use of the Class Material must carry appropriate acknowledgment of the source (e.g., the instructor’s name, course title, and institution). | Enforcement: Failure to comply with this policy may result in legal action and/or disciplinary measures as applicable. | . Consent: . By accessing and using the Class Material, you indicate your acknowledgment and acceptance of this policy. ",
     "url": "/schedule/#week-17-18-frontend-and-automation",
     
     "relUrl": "/schedule/#week-17-18-frontend-and-automation"
@@ -336,19 +336,12 @@
     "relUrl": "/staff/#contact"
   },"48": {
     "doc": "Staff / Contact",
-    "title": "Office Hours",
-    "content": "(See Ed) . ",
-    "url": "/staff/#office-hours",
-    
-    "relUrl": "/staff/#office-hours"
-  },"49": {
-    "doc": "Staff / Contact",
     "title": "Course Staff",
     "content": "Anshika Gupta . Aamir Ahmad Ansari . Shibani Budharaja . Vishnu M . ",
     "url": "/staff/#course-staff",
     
     "relUrl": "/staff/#course-staff"
-  },"50": {
+  },"49": {
     "doc": "Staff / Contact",
     "title": "Staff / Contact",
     "content": " ",
