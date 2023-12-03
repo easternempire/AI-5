@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: AI-5
 tagline: AI-5
+repository: pwdomination/AI-5
 description: AI-5
 author: Vishnu M
 # baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
