@@ -8,6 +8,19 @@ seo:
   name: AI-5
 ---
 
+# **Productionizing AI (MLOps)**: AI-5.
+{:.no_toc}
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<span style="color:red">Version 12/3/2023 </span>
+
 ## Course Introduction
 
 In today's AI-driven world, building a robust deep learning model is only half the journey. The real challenge often lies in bringing this model to life in the form of an application that's scalable, maintainable, and ready for real-world deployment. Welcome to AI-5: Productionizing AI (MLOps), where we will traverse the complex landscape of Machine Learning Operations. This course has been meticulously curated to provide a holistic understanding of the complete deep learning workflow, from refining your models to deploying them in production environments. By blending the theoretical aspects with hands-on application, we will dive deep into topics like containerization, cloud functions, data pipelines, and advanced training workflows, among others. Our objective is not only to help you grasp these concepts but also to empower you to build and deploy scalable AI applications. Whether you are an AI enthusiast wanting to understand the intricacies of MLOps or a seasoned professional aiming to fortify your knowledge, this course promises a comprehensive exploration of the production side of AI. 
