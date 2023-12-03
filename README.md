@@ -8,34 +8,11 @@ seo:
   name: AI-5
 ---
 
-
-# **Productionizing AI (MLOps)**: AI-5.
-{:.no_toc}
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-<span style="color:red">Version 9/4/2023 </span>
-​
-
 ## Course Introduction
 
-In today's AI-driven world, building a robust deep learning model is only half the journey. The real challenge often lies in bringing this model to life in the form of an application that's scalable, maintainable, and ready for real-world deployment. Welcome to AC215: Productionizing AI (MLOps), where we will traverse the complex landscape of Machine Learning Operations. This course has been meticulously curated to provide a holistic understanding of the complete deep learning workflow, from refining your models to deploying them in production environments. By blending the theoretical aspects with hands-on application, we will dive deep into topics like containerization, cloud functions, data pipelines, and advanced training workflows, among others. Our objective is not only to help you grasp these concepts but also to empower you to build and deploy scalable AI applications. Whether you are an AI enthusiast wanting to understand the intricacies of MLOps or a seasoned professional aiming to fortify your knowledge, this course promises a comprehensive exploration of the production side of AI. 
+In today's AI-driven world, building a robust deep learning model is only half the journey. The real challenge often lies in bringing this model to life in the form of an application that's scalable, maintainable, and ready for real-world deployment. Welcome to AI-5: Productionizing AI (MLOps), where we will traverse the complex landscape of Machine Learning Operations. This course has been meticulously curated to provide a holistic understanding of the complete deep learning workflow, from refining your models to deploying them in production environments. By blending the theoretical aspects with hands-on application, we will dive deep into topics like containerization, cloud functions, data pipelines, and advanced training workflows, among others. Our objective is not only to help you grasp these concepts but also to empower you to build and deploy scalable AI applications. Whether you are an AI enthusiast wanting to understand the intricacies of MLOps or a seasoned professional aiming to fortify your knowledge, this course promises a comprehensive exploration of the production side of AI. 
 
 
-
-## Lectures
-
-- **Location:** SEC 1.321/Winokur, 150 Western Ave, Boston
-
-- **Meeting Time:** Tuesday 03:45 PM - 05:00 PM; Thursday 03:45 PM - 05:00 PM
-
-  
 
 ## Course Topics Overview
 
@@ -158,14 +135,14 @@ The heart of this course is experiential learning. We fervently believe that you
 
 | Milestone                                                    | Weight |
 | ------------------------------------------------------------ | ------ |
-| [MS1](https://harvard-iacs.github.io/2023-AC215/milestone1/) | 5      |
-| [MS2](https://harvard-iacs.github.io/2023-AC215/milestone2/) | 10     |
-| [MS3](https://harvard-iacs.github.io/2023-AC215/milestone3/) | 15     |
-| [MS4](https://harvard-iacs.github.io/2023-AC215/milestone4/) | 25     |
-| [MS5](https://harvard-iacs.github.io/2023-AC215/milestone5/) | 10     |
-| [MS6](https://harvard-iacs.github.io/2023-AC215/milestone6/) | 35     |
+| [MS1](https://pwdomination.github.io/AI-5/milestone1/) | 5      |
+| [MS2](https://pwdomination.github.io/AI-5/milestone2/) | 10     |
+| [MS3](https://pwdomination.github.io/AI-5/milestone3/) | 15     |
+| [MS4](https://pwdomination.github.io/AI-5/milestone4/) | 25     |
+| [MS5](https://pwdomination.github.io/AI-5/milestone5/) | 10     |
+| [MS6](https://pwdomination.github.io/AI-5/milestone6/) | 35     |
 
-For more information about the projects and milestones, you can either click the links provided above or visit the [project page](https://harvard-iacs.github.io/2023-AC215/projects/).
+For more information about the projects and milestones, you can either click the links provided above or visit the [project page](https://pwdomination.github.io/AI-5/projects/).
 
 
 ## Course Policies  
@@ -173,16 +150,16 @@ For more information about the projects and milestones, you can either click the
 
 1. **Getting Help:**
 
-   - **ED Forum:** Post questions related to course content, or technical issues on the ED forum. This encourages peer learning and allows teaching staff to address common concerns. We regularly monitor the forum to provide guidance.
+   - **Forum:** Post questions related to course content, or technical issues on the forum. This encourages peer learning and allows teaching staff to address common concerns. We regularly monitor the forum to provide guidance.
    - **Office Hours:** Attend office hours if you need personalized assistance or in-depth explanations.
-   - **Teaching Staff Helpline:** For matters specific to the teaching staff, please send your queries to ac215.2023@gmail.com.
+   - **Teaching Staff Helpline:** For matters specific to the teaching staff, please send your queries to anshikagupta.work.email@gmail.com.
    - **Email the Instructor:** For private or individual concerns, please feel free to directly email the instructor.
 
 2. **Deadline Policy:**
 
    Consistent and timely completion of assignments is imperative in this course. All course milestones must be submitted by 9:00 PM EST on the specified due dates. You are granted a total leeway of five late days throughout the course duration, with a maximum of two late days allowed for any single milestone.
 
-   Should you need to utilize late days, please inform the class helpline via email at [ac215.2023@gmail.com](mailto:ac215.2023@gmail.com) prior to the deadline. This ensures that the teaching team is aware of your situation and can account for it when grading.
+   Should you need to utilize late days, please inform the class helpline via email at [anshikagupta.work.email@gmail.com](mailto:anshikagupta.work.email@gmail.com) prior to the deadline. This ensures that the teaching team is aware of your situation and can account for it when grading.
 
    **Final Milestone:** It's important to note that no extensions will be permitted for the final milestone, under any circumstances. Therefore, careful time management is strongly encouraged to ensure that you can meet this critical deadline.
 

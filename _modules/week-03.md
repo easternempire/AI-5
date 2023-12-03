@@ -9,4 +9,4 @@ Dec 23
 Dec 30
 : Containers II
   : [Lecture 4](../assets/lectures/lecture4/02_containers_part2.pdf)
-: [**M 1 due**](https://harvard-iacs.github.io/2023-AC215/milestone1/){: .label .label-red }
+: [**M 1 due**](https://pwdomination.github.io/AI-5/milestone1/){: .label .label-red }
