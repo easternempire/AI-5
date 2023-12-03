@@ -24,7 +24,7 @@ nav_order: 5
 {% if num_teaching_headtf != 0 %}
 
 ## Contact 
-For administrative or logistical questions, please e-mail class Helpline at [ac215.2023@gmail.com](mailto:ac215.2023@gmail.com) 
+For administrative or logistical questions, please e-mail class Helpline at [anshikagupta.work.email@gmail.com](mailto:anshikagupta.work.email@gmail.com) 
 
 
 ## Course Staff
