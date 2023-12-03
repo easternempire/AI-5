@@ -19,7 +19,7 @@ seo:
 
 ---
 
-<span style="color:red">Version 12/3/2023 </span>
+<span style="color:red">Draft version 12/3/2023 </span>
 
 ## Course Introduction
 
@@ -110,8 +110,15 @@ It's important to note that while prior knowledge in these areas will provide a 
 - **Weekly Sessions:** Structured lectures focusing on the core topics.
 - **Office Hours:** This is a dedicated period where you can consult with your TF for any questions, clarifications, or guidance you may require for your course project. 
 - **Team Projects:** Collaborative assignments that culminate in the creation of a fully functional AI app.
+- **Individual Assignments: ** Four individual assignments focusing on key concepts of ML Ops.
 - **Discussion Forums:** Platforms for peer-to-peer learning, discussions, and knowledge sharing.
 - **Supplementary Readings:** To complement the topics covered in lectures and enrich your academic comprehension, a selection of readings has been curated. As this is an evolving field, the ability to continuously update your knowledge through independent reading is an integral part of the course.
+
+**Individual Assignments: ** 
+
+This course includes four individual assignments, each designed to deepen your understanding of key ML Ops concepts. These assignments are to be completed independently to ensure a personal grasp of the material. They are intentionally concise to focus on core principles without being overly time-consuming. Detailed instructions on submission processes and deadlines will be provided well in advance of due dates. This structure is to encourage timely completion and allow for a balanced workload throughout the course.
+
+
 
 **Team Projects: Project-Based Learning: Crafting Your Own AI Solutions**
 
@@ -126,7 +133,8 @@ In the dynamic realm of AI and MLOps, hands-on experience is paramount. This cou
   
 - **Unleash Your Creativity:** Whether you're driven by a start-up vision,  by research lab innovations, or inspired by a personal hobby, this is your platform to bring that idea to life. 
 
-**2. A Guided Demonstration by Pavlos:**
+**2. A Guided Demonstration by the instructors:**
+
 -  We, the teaching team, will undertake a project that Pavlos proposes throughout the semester. This serves as a demonstration and reference point.
   
 - Each week will spotlight a different facet of Pavlos' project development. This structured showcase offers students a practical insight of course concepts.
