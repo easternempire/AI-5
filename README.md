@@ -114,26 +114,29 @@ It's important to note that while prior knowledge in these areas will provide a 
 - **Discussion Forums:** Platforms for peer-to-peer learning, discussions, and knowledge sharing.
 - **Supplementary Readings:** To complement the topics covered in lectures and enrich your academic comprehension, a selection of readings has been curated. As this is an evolving field, the ability to continuously update your knowledge through independent reading is an integral part of the course.
 
-**Individual Assignments: ** 
+
+
+**Individual Assignments** 
 
 This course includes four individual assignments, each designed to deepen your understanding of key ML Ops concepts. These assignments are to be completed independently to ensure a personal grasp of the material. They are intentionally concise to focus on core principles without being overly time-consuming. Detailed instructions on submission processes and deadlines will be provided well in advance of due dates. This structure is to encourage timely completion and allow for a balanced workload throughout the course.
 
 
 
-**Team Projects: Project-Based Learning: Crafting Your Own AI Solutions**
+**Team Projects: Project-Based Learning**
 
-In the dynamic realm of AI and MLOps, hands-on experience is paramount. This course encourages each student to bring a unique perspective by working on self-conceived projects. Here's what you need to know:
+In the evolving landscape of AI and MLOps, practical experience is crucial. Our teaching team will offer a range of projects, the details of which can be found under the 'Projects' tab. However, we also encourage students to explore their creative insights by proposing and working on self-conceived projects. Here are some guidelines to consider when crafting your project:
 
-**1. Crafting Your AI Project:**
-- Students are expected to conceptualize and develop their own projects. While our teaching staff is here to provide ideas and guidance, the core objective is for each student to nurture and shape their original initiative.
+
+**Crafting Your AI Project:**
+- Students are expected to conceptualize and develop their own projects. While our teaching staff is here to provide projects,  students can use their original initiative.
   
-- By the end of the semester, the aim is to transform your idea into a fully functional web-app or mobile application.
+- By the end of the semester, the aim is to transform the project idea into a fully functional web-app or mobile application.
   
-- Project Scope: Your project should incorporate some element of modeling, ensuring it aligns with the learning objectives of the course. Moreover, it is essential that every component of the project CAN be evaluable by our teaching staff.
+- Project Scope: The project should incorporate some element of modeling, ensuring it aligns with the learning objectives of the course. Moreover, it is essential that every component of the project CAN be evaluable by our teaching staff.
   
 - **Unleash Your Creativity:** Whether you're driven by a start-up vision,  by research lab innovations, or inspired by a personal hobby, this is your platform to bring that idea to life. 
 
-**2. A Guided Demonstration by the instructors:**
+**A Guided Demonstration by the instructors:**
 
 -  We, the teaching team, will undertake a project that Pavlos proposes throughout the semester. This serves as a demonstration and reference point.
   
@@ -141,7 +144,7 @@ In the dynamic realm of AI and MLOps, hands-on experience is paramount. This cou
   
 - Parallelly, students will be prompted to integrate the week's learnings into their projects, ensuring a steady progression towards their end goals.
 
-**3. Milestones and Assessment:**
+**Milestones and Assessment:**
 - The course will be punctuated with key milestones, designed to assess your project's evolution and your grasp of the MLOps concepts. Details of these milestones will be shared in due course.
   
 - It's imperative to understand that a significant portion of your grade hinges on these milestones. They are not just checkpoints but pivotal phases that contribute to your project's holistic development and your learning journey.
