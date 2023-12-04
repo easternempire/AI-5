@@ -6,7 +6,7 @@ nav_order: 4
 ---
 ### Milestone 4 (internal combustion engine): Midterm Presentation:  Optimization and Deployment of Scalable Data Solutions
 
-*Note: This milestone serves as the midterm presentation for AC215.*
+
 
 
 The technical components of this milestone focus on the optimization and workflow orchestration aspects of a complex data-driven project. It emphasizes efficiency and scalability, utilizing advanced modeling techniques like distillation, quantization, and compression as well as tools like Vertex AI Pipelines (Kubeflow) for machine learning workflows. The fourth milestone builds on the foundational work of the first three, driving the project towards completion and ensuring readiness for real-world application. This will provide students with exposure to industry-standard best practices and hands-on experience with cutting-edge tools and methodologies.
@@ -15,14 +15,12 @@ Finally, the milestone serves as an opportunity to practice presenting informati
 
 ### Key dates:
 
-- Presentation: Tues, Oct 24th or Thurs, Oct 26th (see Ed post for further details)
-- Slides due : Noon EST - Tues, Oct 24th or Thurs, Oct 26th (see Ed post for further details, Please submit slides via Canvas )
-- Repo due date: Friday, Oct 27th 9PM EST
+- Presentation, Slides, Repo due date: Saturday, Feb, 24th 9PM EST
 
 ### [Template Repository](https://github.com/ac2152023/ac2152023_template/tree/milestone4)
 
 ### Submission Instructions: 
-- Please submit slides via Canvas 
+- Please see forum 
 
 ### Objectives:
 

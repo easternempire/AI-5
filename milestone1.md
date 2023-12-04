@@ -9,24 +9,24 @@ nav_order: 1
 
 **Key dates:**
 
-- project proposals due: Sep 14th
-- staff feedback: Sep 19th
+- project proposals due: Dec 30th
+- staff feedback: Jan 7th
 
 ### Objectives:
 
-For the first milestone, your team will **propose a project** that aligns with your personal, professional, and academic interests and passions. 
+For the first milestone, your team will **select a project** that aligns with your personal, professional, and academic interests and passions. 
 
-Allowing you to propose your own projects,  will enhance your engagement and lead to better learning outcomes. This approach will also foster your independence, critical thinking skills, and creativity, preparing you for real-world scenarios where you may be required to initiate and lead your own projects. Call on your inner data scientist and take charge of your project experience.
+Allowing you to propose your own approach to the selected project,  will enhance your engagement and lead to better learning outcomes. This approach will also foster your independence, critical thinking skills, and creativity, preparing you for real-world scenarios where you may be required to initiate and lead your own projects. Call on your inner data scientist and take charge of your project experience.
 
 
 
 #### Step 1: Create Teams (Groups of 3-5 Students)
 
 *Platform for Team Formation:*  
-You may use the Ed platform to find your teammates. Alternatively, you may form teams independently.
+You may use the Discord discussion platform to find your teammates. 
 
 *Team Registration:*  
-Once you have finalized your team, please enter your team name and the names of team members in [this shared spreadsheet](https://docs.google.com/spreadsheets/d/1zaYPLYblMjNODzoRuZxzOX16HaIkuWCs/edit?usp=sharing&ouid=109490521694988502723&rtpof=true&sd=true).
+Once you have finalized your team, please enter your team name and the names of team members in [this shared spreadsheet](https://docs.google.com/spreadsheets/d/10_1aNDPIbZ7vvjd-AvCiK2gZPQOy-8QU/edit?usp=sharing&ouid=114651553905650346802&rtpof=true&sd=true).
 
 #### Step 2: Submit Statement of Work (Project Proposal)
 
@@ -53,7 +53,7 @@ Clearly outline the problem or question your project aims to solve. Make sure th
 
 - Format: PDF
 
-- Submit via Canvas
+- Submit via Google folder link (edit access enabled)
 
 ---
 
@@ -126,7 +126,7 @@ Statements of Work that do not include both a well-defined scope and a prelimina
 
 
  **Deliverables:**
- Submit a PDF of your proposal on canvas by 9:00 PM EST on **Sep 14th.**
+ Submit a PDF of your proposal by 9:00 PM EST on **Dec 30th.**
 
 
 

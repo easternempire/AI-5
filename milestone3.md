@@ -10,13 +10,13 @@ In this milestone, the focus is on developing an advanced training workflows and
 
 ### Key dates:
 
-- Due date: Oct 5th
+- Due date: Feb 10th
 
 ### [Template Repository](https://github.com/ac2152023/ac2152023_template/tree/milestone3)
 
 ### Submission Instructions: 
 
-- Please see Ed
+- Please see forum
 
 ### Objectives:
 

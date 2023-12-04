@@ -11,7 +11,7 @@ Milestone 5 emphasizes the final stages of the project, focusing on the developm
 
 ### Key dates:
 
-- Due date: Nov 20th
+- Due date: March 30th
 
 
 ### [Template Repository](https://github.com/ac2152023/ac2152023_template/tree/milestone5)

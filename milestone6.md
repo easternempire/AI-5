@@ -14,7 +14,7 @@ The final milestone is a comprehensive reflection of the skills, knowledge, and 
 
 ### Key dates:
 
-- Due date: Dec 12th
+- Due date: TBD
  
 
 ### [Template Repository](https://github.com/ac2152023/ac2152023_template/)
