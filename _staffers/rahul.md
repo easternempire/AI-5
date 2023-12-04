@@ -1,6 +1,6 @@
 ---
 name: Rahul Dave
-role: Instructor
+role: Support Instructor
 # email: pavlos@seas.harvard.edu
 photo: RahulDave.jpeg
 ---
