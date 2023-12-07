@@ -19,7 +19,7 @@ The final milestone is a comprehensive reflection of the skills, knowledge, and 
 
 ### [Template Repository](https://github.com/ac2152023/ac2152023_template/)
 
-### Blog Post Instructions on [ED](https://edstem.org/us/courses/42775/discussion/3947692)
+### Blog Post Instructions will be shared on the forum.
 
 ### GitHub Repo: We will be retrieving main branch for final project.
 <br/>
