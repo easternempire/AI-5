@@ -17,7 +17,7 @@ In this milestone, the focus is on developing a robust and scalable MLOps infras
 
 ### Submission Instructions: 
 
-- Please see Ed
+- Please see forum
 
 ### Objectives:
 
