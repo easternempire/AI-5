@@ -130,11 +130,9 @@ Statements of Work that do not include both a well-defined scope and a prelimina
 
 
 
-Below are two samples SOW for such apps:
+Below is a sample SOW for such apps:
 
-[Sample Proposal](https://drive.google.com/file/d/1uWNl8WB5LDvbsKkvgYeypT642rO0i2-b/view?usp=drive_link)
 
----
 
 # ButterFlyer
 
