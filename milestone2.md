@@ -13,7 +13,7 @@ In this milestone, the focus is on developing a robust and scalable MLOps infras
 
 - Due date: Jan 20th
 
-### [Template Repository](https://github.com/ac2152023/ac2152023_template/tree/milestone2)
+### [Template Repository](https://github.com/easternempire/AI-5-template/tree/milestone2)
 
 ### Submission Instructions: 
 

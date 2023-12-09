@@ -12,7 +12,7 @@ In this milestone, the focus is on developing an advanced training workflows and
 
 - Due date: Feb 10th
 
-### [Template Repository](https://github.com/ac2152023/ac2152023_template/tree/milestone3)
+### [Template Repository](https://github.com/easternempire/AI-5-template/tree/milestone3)
 
 ### Submission Instructions: 
 

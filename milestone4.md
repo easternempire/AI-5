@@ -17,7 +17,7 @@ Finally, the milestone serves as an opportunity to practice presenting informati
 
 - Presentation, Slides, Repo due date: Saturday, Feb, 24th 9PM EST
 
-### [Template Repository](https://github.com/ac2152023/ac2152023_template/tree/milestone4)
+### [Template Repository](https://github.com/easternempire/AI-5-template/tree/milestone4)
 
 ### Submission Instructions: 
 - Please see forum 

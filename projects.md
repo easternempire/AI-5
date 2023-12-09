@@ -24,7 +24,4 @@ Guidelines, submission instruction for milestones (and medium page) for future p
 
 # Project Options
 
-1. 
-2.
-3.
-4.
+## COMING SOON

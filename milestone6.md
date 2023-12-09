@@ -17,7 +17,7 @@ The final milestone is a comprehensive reflection of the skills, knowledge, and 
 - Due date: TBD
  
 
-### [Template Repository](https://github.com/ac2152023/ac2152023_template/)
+### [Template Repository](https://github.com/easternempire/AI-5-template/)
 
 ### Blog Post Instructions will be shared on the forum.
 

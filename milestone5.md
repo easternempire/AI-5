@@ -14,7 +14,7 @@ Milestone 5 emphasizes the final stages of the project, focusing on the developm
 - Due date: March 30th
 
 
-### [Template Repository](https://github.com/ac2152023/ac2152023_template/tree/milestone5)
+### [Template Repository](https://github.com/easternempire/AI-5-template/tree/milestone5)
 
 ### Objectives:
 
