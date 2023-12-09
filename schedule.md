@@ -7,7 +7,10 @@ nav_order: 1
 
 # Schedule and Calendar
 
-Overall schedule can be found [here](/assets/images/ContentOutline.pdf) and calendar [here](easternempire/AI-5/assets/images/AI5_schedule.png).
+Overall schedule with lesson names can be found [here](/assets/images/ContentOutline.pdf) and the calendar is as follows:
+<br>
+
+ <img src="https://docs.google.com/drawings/d/e/2PACX-1vTDrIVzN5ky5dbUT8PKkJPCrZfBRSrVCHiC1djSohKlYOe6OP_R7GDLZsaLL4yR_Az02jsqy8LJZMPH/pub?w=3014&amp;h=1743">
 
 
 {% for module in site.modules %}
