@@ -111,7 +111,7 @@ It's important to note that while prior knowledge in these areas will provide a 
 - **Office Hours:** This is a dedicated period where you can consult with your TF for any questions, clarifications, or guidance you may require for your course project. 
 - **Team Projects:** Collaborative assignments that culminate in the creation of a fully functional AI app.
 - **Individual Assignments: ** Four individual assignments focusing on key concepts of ML Ops.
-- **Discussion Forums:** Platforms for peer-to-peer learning, discussions, and knowledge sharing.
+- **Discussion forum: DISCORDs:** Platforms for peer-to-peer learning, discussions, and knowledge sharing.
 - **Supplementary Readings:** To complement the topics covered in lectures and enrich your academic comprehension, a selection of readings has been curated. As this is an evolving field, the ability to continuously update your knowledge through independent reading is an integral part of the course.
 
 
@@ -174,9 +174,9 @@ For more information about the projects and milestones, you can either click the
 
 1. **Getting Help:**
 
-   - **Forum:** Post questions related to course content, or technical issues on the forum. This encourages peer learning and allows teaching staff to address common concerns. We regularly monitor the forum to provide guidance.
+   - **forum: DISCORD:** Post questions related to course content, or technical issues on the forum: DISCORD. This encourages peer learning and allows teaching staff to address common concerns. We regularly monitor the forum: DISCORD to provide guidance.
    - **Office Hours:** Attend office hours if you need personalized assistance or in-depth explanations.
-   - **Teaching Staff Helpline:** For matters specific to the teaching staff, please send your queries to anshikagupta.work.email@gmail.com.
+   - **Teaching Staff Helpline:** For matters specific to the teaching staff, please send your queries on DISCORD (preffered) or email anshikagupta.work.email@gmail.com .
    - **Email the Instructor:** For private or individual concerns, please feel free to directly email the instructor.
 
 2. **Deadline Policy:**

@@ -20,7 +20,7 @@ Finally, the milestone serves as an opportunity to practice presenting informati
 ### [Template Repository](https://github.com/easternempire/AI-5-template/tree/milestone4)
 
 ### Submission Instructions: 
-- Please see forum 
+- Please see forum: DISCORD 
 
 ### Objectives:
 

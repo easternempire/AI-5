@@ -19,7 +19,7 @@ The final milestone is a comprehensive reflection of the skills, knowledge, and 
 
 ### [Template Repository](https://github.com/easternempire/AI-5-template/)
 
-### Blog Post Instructions will be shared on the forum.
+### Blog Post Instructions will be shared on the forum: DISCORD.
 
 ### GitHub Repo: We will be retrieving main branch for final project.
 <br/>

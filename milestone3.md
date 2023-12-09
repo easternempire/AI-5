@@ -16,7 +16,7 @@ In this milestone, the focus is on developing an advanced training workflows and
 
 ### Submission Instructions: 
 
-- Please see forum
+- Please see forum: DISCORD
 
 ### Objectives:
 
