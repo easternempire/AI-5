@@ -19,7 +19,7 @@ seo:
 
 ---
 
-<span style="color:red">Draft version 12/3/2023 </span>
+<span style="color:red">Version 12/12/2023 </span>
 
 ## Course Introduction
 
