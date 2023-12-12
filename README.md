@@ -166,7 +166,7 @@ The heart of this course is experiential learning. We fervently believe that you
 | [MS5](https://pwdomination.github.io/AI-5/milestone5/) | 10     |
 | [MS6](https://pwdomination.github.io/AI-5/milestone6/) | 35     |
 
-For more information about the projects and milestones, you can either click the links provided above or visit the [project page](https://pwdomination.github.io/AI-5/projects/).
+For more information about the projects and milestones, you can either click the links provided above or visit the [project page](https://easternempire.github.io/AI-5/projects/).
 
 
 ## Course Policies  
