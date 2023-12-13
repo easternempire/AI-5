@@ -161,12 +161,12 @@ The heart of this course is experiential learning. We fervently believe that you
 
 | Milestone                                                    | Weight |
 | ------------------------------------------------------------ | ------ |
-| [MS1](https://pwdomination.github.io/AI-5/milestone1/) | 5      |
-| [MS2](https://pwdomination.github.io/AI-5/milestone2/) | 10     |
-| [MS3](https://pwdomination.github.io/AI-5/milestone3/) | 15     |
-| [MS4](https://pwdomination.github.io/AI-5/milestone4/) | 25     |
-| [MS5](https://pwdomination.github.io/AI-5/milestone5/) | 10     |
-| [MS6](https://pwdomination.github.io/AI-5/milestone6/) | 35     |
+| [MS1](https://easternempire.github.io/AI-5/milestone1/) | 5      |
+| [MS2](https://easternempire.github.io/AI-5/milestone2/) | 10     |
+| [MS3](https://easternempire.github.io/AI-5/milestone3/) | 15     |
+| [MS4](https://easternempire.github.io/AI-5/milestone4/) | 25     |
+| [MS5](https://easternempire.github.io/AI-5/milestone5/) | 10     |
+| [MS6](https://easternempire.github.io/AI-5/milestone6/) | 35     |
 
 For more information about the projects and milestones, you can either click the links provided above or visit the [project page](https://easternempire.github.io/AI-5/projects/).
 
