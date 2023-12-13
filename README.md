@@ -20,8 +20,8 @@ seo:
 ---
 
 =======
-<span style="color:red">Version 12/12/2023 </span>
->>>>>>> 1dcc42b2a665d278362315cecce977107756c1ac
+<span style="color:red">Version 13/12/2023 </span>
+
 
 ## Course Introduction
 
