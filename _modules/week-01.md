@@ -8,5 +8,5 @@ Dec 9
 
 Dec 16
 : Virtual Environments and Virtual Machines
-  : [Lecture 2](../assets/lectures/lecture2/01_virtual_machines_virtual_environments.pdf)
+  : [Lecture 2](../assets/lectures/lecture2/02_virtual_machines_virtual_environments.pdf)
 
