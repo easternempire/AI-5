@@ -228,7 +228,7 @@ To foster inclusion:
 
    - Please inform us if your name or pronouns differ from official records.
    
-   - If something affects your class performance or if you feel uncomfortable with any classroom interactions, reach out to us. You may also find resources at the Harvard Office of Diversity and Inclusion.
+   - If something affects your class performance or if you feel uncomfortable with any classroom interactions, reach out to us.
    
    - Respect and consideration for diverse backgrounds and perspectives are expected from all participants.
    
