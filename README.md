@@ -20,7 +20,10 @@ seo:
 ---
 
 =======
-<span style="color:red">Version 13/12/2023 </span>
+<span style="color:red">Version 23/12/2023 </span>
+
+## *Team Registration:*  
+Once you have finalized your team, please enter your team name and the names of team members in [this shared spreadsheet](https://docs.google.com/spreadsheets/d/10_1aNDPIbZ7vvjd-AvCiK2gZPQOy-8QU/edit?usp=sharing&ouid=114651553905650346802&rtpof=true&sd=true).
 
 
 ## Course Introduction
