@@ -4,7 +4,7 @@ title: Week 3 & 4 - Containers
 
 Dec 23
 : Containers I
-  : [Lecture 3](../assets/lectures/lecture3/02_containers_part1.pdf)
+  : [Lecture 3](../assets/lectures/lecture3/03_containers_part1.pdf)
 
 Dec 30
 : Containers II
