@@ -9,4 +9,4 @@ Jan 20
 
 Jan 27
 : Distillation/Quantization/Compression, TF lite
-  : [Lecture 9](../assets/lectures/lecture9/05_model2_compression_techniques.pdf)
+  : [Lecture 8](../assets/lectures/lecture9/05_model2_compression_techniques.pdf)
