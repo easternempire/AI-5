@@ -8,5 +8,5 @@ Jan 20
 : [**M 2 due**](https://pwdomination.github.io/AI-5/milestone2/){: .label .label-red }
 
 Jan 27
-: Advanced training workflows: experiment tracking (W&B), multi GPU, serverless training (Vertex AI), kubeflow
-  : [Lecture 8](../assets/lectures/lecture8/04_model1_advanced_training.pdf)
+: Distillation/Quantization/Compression, TF lite
+  : [Lecture 9](../assets/lectures/lecture9/05_model2_compression_techniques.pdf)

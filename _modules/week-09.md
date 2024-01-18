@@ -3,9 +3,10 @@ title: Week 9 & 10 - Models
 ---
 
 Feb 3
-: Distillation/Quantization/Compression, TF lite
-  : [Lecture 9](../assets/lectures/lecture9/05_model2_compression_techniques.pdf)
+: Advanced training workflows: experiment tracking (W&B), multi GPU, serverless training (Vertex AI), kubeflow
+  : [Lecture 9](../assets/lectures/lecture8/04_model1_advanced_training.pdf)
 : [**M 3 due**](https://pwdomination.github.io/AI-5/milestone3/){: .label .label-red }
+
 
 Feb 10
 : Model performance monitoring, data drift, or other post release items to be aware of
