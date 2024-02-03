@@ -4,7 +4,6 @@ title: Week 13 & 14 - App Development
 Mar 9
 : App design, setup and code organization
   : [Lecture 13](../assets/lectures/lecture13/09_app_development_design_setup.pdf)
-: [**M 4 due**](https://pwdomination.github.io/AI-5/milestone4/){: .label .label-red }
 
 Mar 16
 : APIs & Frontend

@@ -8,3 +8,4 @@ Feb 24
 Mar 2
 : Hands on Mushroom App Pipelines
   : [Lecture 12](../assets/lectures/lecture12/07_ml_workflow_management.pdf)
+: [**M 4 due**](https://pwdomination.github.io/AI-5/milestone4/){: .label .label-red }
