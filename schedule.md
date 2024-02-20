@@ -7,7 +7,7 @@ nav_order: 1
 
 # Schedule and Calendar
 
-Overall schedule with lesson names can be found [here](/assets/images/AI5_schedule.svg) and the calendar is as follows:
+Overall schedule with lesson names can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSsBWyungO_iMWKXoriVynavrU0M6_cVV-foqmwvgRx6eng6CjP5zOBDiYa18AWnJY6uDgN519Vd00K/pubhtml?gid=1419195799&amp;single=true&amp;widget=true&amp;headers=false) and the calendar is as follows:
 <br>
 
  <img src="https://docs.google.com/drawings/d/e/2PACX-1vTDrIVzN5ky5dbUT8PKkJPCrZfBRSrVCHiC1djSohKlYOe6OP_R7GDLZsaLL4yR_Az02jsqy8LJZMPH/pub?w=3014&amp;h=1743">
