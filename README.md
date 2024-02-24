@@ -20,7 +20,7 @@ seo:
 ---
 
 =======
-<span style="color:red">Version 23/12/2023 </span>
+<span style="color:red">Version 20/01/2024 </span>
 
 ## *Team Registration:*  
 Once you have finalized your team, please enter your team name and the names of team members in [this shared spreadsheet](https://docs.google.com/spreadsheets/d/10_1aNDPIbZ7vvjd-AvCiK2gZPQOy-8QU/edit?usp=sharing&ouid=114651553905650346802&rtpof=true&sd=true).
@@ -34,7 +34,7 @@ In today's AI-driven world, building a robust deep learning model is only half t
 
 ## Course Topics Overview
 
-We have designed an in-depth curriculum to ensure a comprehensive understanding of MLOps. Here's a closer look at the topics we'll be covering (see  [here](/assets/images/ContentOutline.pdf) for a full list of topics):
+We have designed an in-depth curriculum to ensure a comprehensive understanding of MLOps. Here's a closer look at the topics we'll be covering (see  [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSsBWyungO_iMWKXoriVynavrU0M6_cVV-foqmwvgRx6eng6CjP5zOBDiYa18AWnJY6uDgN519Vd00K/pubhtml?gid=1419195799&amp;single=true&amp;widget=true&amp;headers=false) for a full list of topics):
 
 
 1. **Introduction:** 
